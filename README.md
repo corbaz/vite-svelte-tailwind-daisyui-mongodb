@@ -89,12 +89,11 @@ npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 Next, generate your tailwind.config.js and postcss.config.js files:
 
 npx tailwindcss init -p
+```
 
-...
+```cmd
+Quick setup 
 
-...cmd
-Quick setup — if you’ve done this kind of thing before
-or	
 https://github.com/corbaz/vite-svelte-tailwind-daisyui-mongodb.git
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
@@ -106,6 +105,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/corbaz/vite-svelte-tailwind-daisyui-mongodb.git
 git push -u origin main
+
 …or push an existing repository from the command line
 git remote add origin https://github.com/corbaz/vite-svelte-tailwind-daisyui-mongodb.git
 git branch -M main
